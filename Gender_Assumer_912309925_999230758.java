@@ -5,10 +5,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
-
-/**
- * Created by Jason on 3/14/2017.
- */
 public class Gender_Assumer_912309925_999230758 {
 
     // array of test images
